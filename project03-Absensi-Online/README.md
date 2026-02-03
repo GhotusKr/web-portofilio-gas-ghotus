@@ -13,3 +13,4 @@ validasi data mahasiswa, dan relasi data master–transaksi.
 - Google Sheets
 ## Demo APP
 https://script.google.com/macros/s/AKfycbwKHSUBAOvECbq0No0f5-uFsfrsdZZGymAdWOAKhQnz/dev
+const SHEET_ID = '19BToI7OB1tpVNxpCWBMEp7zuZ0cujnCmVi3Q_2f6xyg';
