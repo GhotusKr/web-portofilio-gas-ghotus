@@ -33,9 +33,9 @@ Sheet: `data_pengajuan`
 Edit di `Code.gs`:
 
 js
-const PROJECT_ID = 'project-id-anda';
+const PROJECT_ID = 'vertical-gift-486307-h6';
 const DATASET_ID = 'app_pengajuan';
-const SPREADSHEET_ID = 'spreadsheet-id';
+const SPREADSHEET_ID = '1euTrbPktKr_tlplRzJEp37ZixGrNaq3NNjUsfhZNIZE';
 ### Demo app
 https://script.google.com/macros/s/AKfycbzmTSyyXmkc1em7KWwIYXyYzpp6ZVcOkfhAX5bzvdg/dev
 
